@@ -3,16 +3,6 @@
 ## Overview
 This project focuses on forecasting time series data using various models, including ARIMA, SARIMA, LSTM, and Prophet. The goal is to analyze historical data, identify patterns, and make accurate future predictions.
 
-## Table of Contents
-- [Technologies Used](#technologies-used)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Evaluation Metrics](#evaluation-metrics)
-- [Visualizations](#visualizations)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Technologies Used
 - Python
 - Libraries: 
